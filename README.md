@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ARSAM KHAN</h1>
+<h1 align="center">Hi 👋, I'm MOHD ARSAM KHAN</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsam7455&label=Profile%20views&color=0e75b6&style=flat" alt="arsam7455" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **NodeMCU Project**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Advance Java Programming**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sY6RnK3KPiJ9Nwz37Lvis4Eu9ZzCC5dB/view?usp=drivesdk](https://drive.google.com/file/d/1sY6RnK3KPiJ9Nwz37Lvis4Eu9ZzCC5dB/view?usp=drivesdk)
 
