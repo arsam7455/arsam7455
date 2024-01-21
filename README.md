@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsam7455" alt="arsam7455" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mohd arsam khan" target="blank"><img src="https://img.shields.io/twitter/follow/mohd arsam khan?logo=twitter&style=for-the-badge" alt="mohd arsam khan" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/mohd arsam khan](https://twitter.com/arsam__khan)" target="blank"><img src="https://img.shields.io/twitter/follow/mohd arsam khan?logo=twitter&style=for-the-badge" alt="mohd arsam khan" /></a> </p>
 
-- 🔭 I’m currently working on **NodeMCU Project**
+- 🔭 I’m currently working on **ResBerry Pi Project**
 
 - 🌱 I’m currently learning **Advance Java Programming**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sY6RnK3KPiJ9Nwz37Lvis4Eu9ZzCC5dB/view?usp=drivesdk](https://drive.google.com/file/d/1sY6RnK3KPiJ9Nwz37Lvis4Eu9ZzCC5dB/view?usp=drivesdk)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I think, I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohd arsam khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohd arsam khan" height="30" width="40" /></a>
+<a href="https://twitter.com/arsam__khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohd arsam khan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohd arsam khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd arsam khan" height="30" width="40" /></a>
 <a href="https://fb.com/mohd arsam khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohd arsam khan" height="30" width="40" /></a>
 <a href="https://instagram.com/arsam__khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arsam__khan" height="30" width="40" /></a>
